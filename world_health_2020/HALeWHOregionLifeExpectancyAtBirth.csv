@@ -1,0 +1,73 @@
+﻿Location,Period,Indicator,Dim1,Hale Expectency,Life expectany,,% OF HALE in life expectancy
+Africa,2019,Healthy life expectancy (HALE) at birth (years),Both sexes,56.04,64.49,86.89719336,87
+Africa,2019,Healthy life expectancy (HALE) at birth (years),Male,55,62.37,88.18342152,88
+Africa,2019,Healthy life expectancy (HALE) at birth (years),Female,57.09,66.65,85.6564141,86
+Africa,2015,Healthy life expectancy (HALE) at birth (years),Both sexes,54.42,62.56,86.98849105,87
+Africa,2015,Healthy life expectancy (HALE) at birth (years),Male,53.38,60.47,88.27517777,88
+Africa,2015,Healthy life expectancy (HALE) at birth (years),Female,55.47,64.69,85.74741073,86
+Africa,2010,Healthy life expectancy (HALE) at birth (years),Both sexes,51.8,59.49,87.07345772,87
+Africa,2010,Healthy life expectancy (HALE) at birth (years),Male,50.98,57.69,88.36886809,88
+Africa,2010,Healthy life expectancy (HALE) at birth (years),Female,52.63,61.31,85.84244006,86
+Africa,2000,Healthy life expectancy (HALE) at birth (years),Both sexes,45.8,52.65,86.98955366,87
+Africa,2000,Healthy life expectancy (HALE) at birth (years),Male,45.03,51.06,88.19036428,88
+Africa,2000,Healthy life expectancy (HALE) at birth (years),Female,46.62,54.31,85.84054502,86
+Americas,2019,Healthy life expectancy (HALE) at birth (years),Both sexes,66.17,77.16,85.75686884,86
+Americas,2019,Healthy life expectancy (HALE) at birth (years),Male,64.83,74.49,87.03181635,87
+Americas,2019,Healthy life expectancy (HALE) at birth (years),Female,67.51,79.84,84.55661323,85
+Americas,2015,Healthy life expectancy (HALE) at birth (years),Both sexes,66.03,76.78,85.99895806,86
+Americas,2015,Healthy life expectancy (HALE) at birth (years),Male,64.62,74.05,87.26536124,87
+Americas,2015,Healthy life expectancy (HALE) at birth (years),Female,67.43,79.52,84.79627767,85
+Americas,2010,Healthy life expectancy (HALE) at birth (years),Both sexes,64.99,75.44,86.14793213,86
+Americas,2010,Healthy life expectancy (HALE) at birth (years),Male,63.43,72.53,87.45346753,87
+Americas,2010,Healthy life expectancy (HALE) at birth (years),Female,66.56,78.35,84.95213784,85
+Americas,2000,Healthy life expectancy (HALE) at birth (years),Both sexes,64.09,74.12,86.46788991,86
+Americas,2000,Healthy life expectancy (HALE) at birth (years),Male,62.48,71.13,87.83916772,88
+Americas,2000,Healthy life expectancy (HALE) at birth (years),Female,65.69,77.1,85.20103761,85
+South-East Asia,2019,Healthy life expectancy (HALE) at birth (years),Both sexes,61.46,71.44,86.03023516,86
+South-East Asia,2019,Healthy life expectancy (HALE) at birth (years),Male,61.07,69.88,87.39267315,87
+South-East Asia,2019,Healthy life expectancy (HALE) at birth (years),Female,61.87,73.1,84.6374829,85
+South-East Asia,2015,Healthy life expectancy (HALE) at birth (years),Both sexes,60.46,70.2,86.12535613,86
+South-East Asia,2015,Healthy life expectancy (HALE) at birth (years),Male,60.1,68.7,87.48180495,87
+South-East Asia,2015,Healthy life expectancy (HALE) at birth (years),Female,60.84,71.78,84.75898579,85
+South-East Asia,2010,Healthy life expectancy (HALE) at birth (years),Both sexes,58.68,68.11,86.15474967,86
+South-East Asia,2010,Healthy life expectancy (HALE) at birth (years),Male,58.13,66.39,87.55836722,88
+South-East Asia,2010,Healthy life expectancy (HALE) at birth (years),Female,59.28,69.99,84.69781397,85
+South-East Asia,2000,Healthy life expectancy (HALE) at birth (years),Both sexes,54.54,63.35,86.09313339,86
+South-East Asia,2000,Healthy life expectancy (HALE) at birth (years),Male,54.36,62.2,87.39549839,87
+South-East Asia,2000,Healthy life expectancy (HALE) at birth (years),Female,54.73,64.58,84.74759988,85
+Europe,2019,Healthy life expectancy (HALE) at birth (years),Both sexes,68.31,78.24,87.30828221,87
+Europe,2019,Healthy life expectancy (HALE) at birth (years),Male,66.56,75.09,88.64029831,89
+Europe,2019,Healthy life expectancy (HALE) at birth (years),Female,69.98,81.29,86.08684955,86
+Europe,2015,Healthy life expectancy (HALE) at birth (years),Both sexes,67.47,77.09,87.52107926,88
+Europe,2015,Healthy life expectancy (HALE) at birth (years),Male,65.57,73.8,88.84823848,89
+Europe,2015,Healthy life expectancy (HALE) at birth (years),Female,69.33,80.31,86.32797908,86
+Europe,2010,Healthy life expectancy (HALE) at birth (years),Both sexes,66.35,75.72,87.62546223,88
+Europe,2010,Healthy life expectancy (HALE) at birth (years),Male,64.17,72.14,88.9520377,89
+Europe,2010,Healthy life expectancy (HALE) at birth (years),Female,68.51,79.27,86.42613851,86
+Europe,2000,Healthy life expectancy (HALE) at birth (years),Both sexes,63.65,72.51,87.78099572,88
+Europe,2000,Healthy life expectancy (HALE) at birth (years),Male,60.96,68.44,89.07071888,89
+Europe,2000,Healthy life expectancy (HALE) at birth (years),Female,66.39,76.64,86.62578288,87
+Eastern Mediterranean,2019,Healthy life expectancy (HALE) at birth (years),Both sexes,60.45,69.74,86.67909378,87
+Eastern Mediterranean,2019,Healthy life expectancy (HALE) at birth (years),Male,60.21,68.31,88.14229249,88
+Eastern Mediterranean,2019,Healthy life expectancy (HALE) at birth (years),Female,60.7,71.31,85.12130136,85
+Eastern Mediterranean,2015,Healthy life expectancy (HALE) at birth (years),Both sexes,59.4,68.39,86.85480333,87
+Eastern Mediterranean,2015,Healthy life expectancy (HALE) at birth (years),Male,59.03,66.81,88.35503667,88
+Eastern Mediterranean,2015,Healthy life expectancy (HALE) at birth (years),Female,59.81,70.14,85.27231252,85
+Eastern Mediterranean,2010,Healthy life expectancy (HALE) at birth (years),Both sexes,58.75,67.58,86.93400414,87
+Eastern Mediterranean,2010,Healthy life expectancy (HALE) at birth (years),Male,58.42,66.03,88.47493564,88
+Eastern Mediterranean,2010,Healthy life expectancy (HALE) at birth (years),Female,59.09,69.27,85.30388335,85
+Eastern Mediterranean,2000,Healthy life expectancy (HALE) at birth (years),Both sexes,56.6,65.02,87.05013842,87
+Eastern Mediterranean,2000,Healthy life expectancy (HALE) at birth (years),Male,56.28,63.52,88.60201511,89
+Eastern Mediterranean,2000,Healthy life expectancy (HALE) at birth (years),Female,56.96,66.67,85.43572821,85
+Western Pacific,2019,Healthy life expectancy (HALE) at birth (years),Both sexes,68.57,77.66,88.29513263,88
+Western Pacific,2019,Healthy life expectancy (HALE) at birth (years),Male,67.04,74.76,89.67362226,90
+Western Pacific,2019,Healthy life expectancy (HALE) at birth (years),Female,70.24,80.83,86.8984288,87
+Western Pacific,2015,Healthy life expectancy (HALE) at birth (years),Both sexes,68.12,76.98,88.49051702,88
+Western Pacific,2015,Healthy life expectancy (HALE) at birth (years),Male,66.48,73.96,89.88642509,90
+Western Pacific,2015,Healthy life expectancy (HALE) at birth (years),Female,69.94,80.32,87.07669323,87
+Western Pacific,2010,Healthy life expectancy (HALE) at birth (years),Both sexes,66.98,75.46,88.76225815,89
+Western Pacific,2010,Healthy life expectancy (HALE) at birth (years),Male,65.36,72.52,90.12686156,90
+Western Pacific,2010,Healthy life expectancy (HALE) at birth (years),Female,68.79,78.75,87.35238095,87
+Western Pacific,2000,Healthy life expectancy (HALE) at birth (years),Both sexes,64.27,72.42,88.74620271,89
+Western Pacific,2000,Healthy life expectancy (HALE) at birth (years),Male,62.91,69.8,90.12893983,90
+Western Pacific,2000,Healthy life expectancy (HALE) at birth (years),Female,65.78,75.33,87.3224479,87
